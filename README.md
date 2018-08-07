@@ -13,4 +13,4 @@ This is a repository for archiving some of my previous work in UNSW.
 - Project2: Recurrent Networks and Sentiment Classification
 - Project3 - Deep Reinforcement Learning
 ##### COMP9311: 
-- Database System, specifications are missing. 
+- Database System
